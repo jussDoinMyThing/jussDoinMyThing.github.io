@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently a student at **TripleTen**
 
-- 👯 I’m looking to collaborate on **Jumpster**(https://play.unity.com/en/games/2febf8f5-4197-4b4e-8253-36d9a9d0af12/webgl-builds)
+- 👯 I’m looking to collaborate on **Jumpster**(https://play.unity.com/en/games/2febf8f5-4197-4b4e-8253-36d9a9d0af12/jumpster)
 
 - 🤝 I’m looking for help with editing [Library](http://127.0.0.1:5500/se_project_library/index.html)
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/jussDoinMyThing.github.io/pages/index.html](http://127.0.0.1:5500/jussDoinMyThing.github.io/pages/index.html)
+- 👨‍💻 All of my projects are available at (https://linktr.ee/Dr.Voo)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
